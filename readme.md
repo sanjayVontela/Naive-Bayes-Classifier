@@ -1,1 +1,1 @@
-Read me
+Naive Bayes Classifier (NBC) is a probabilistic algorithm that is widely used for classification tasks in natural language processing. In this assignment, we are going to implement a Naive Bayes Classifier to classify movie reviews as fresh or rotten using the Rotten Tomatoes Reviews dataset. We will build the classifier from scratch using Python and Jupyter Notebook.
